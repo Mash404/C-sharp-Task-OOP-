@@ -1,0 +1,6 @@
+C:\Users\mashf\source\repos\Task_OOP\Reference_project\bin\Debug\Reference_project.dll
+C:\Users\mashf\source\repos\Task_OOP\Reference_project\bin\Debug\Reference_project.pdb
+C:\Users\mashf\source\repos\Task_OOP\Reference_project\obj\Debug\Reference_project.csproj.AssemblyReference.cache
+C:\Users\mashf\source\repos\Task_OOP\Reference_project\obj\Debug\Reference_project.csproj.CoreCompileInputs.cache
+C:\Users\mashf\source\repos\Task_OOP\Reference_project\obj\Debug\Reference_project.dll
+C:\Users\mashf\source\repos\Task_OOP\Reference_project\obj\Debug\Reference_project.pdb

@@ -1,0 +1,11 @@
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\obj\Debug\Task_OOP.csproj.AssemblyReference.cache
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\obj\Debug\Task_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\obj\Debug\Task_OOP.csproj.CoreCompileInputs.cache
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\bin\Debug\Task_OOP.exe.config
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\bin\Debug\Task_OOP.exe
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\bin\Debug\Task_OOP.pdb
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\bin\Debug\Reference_project.dll
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\bin\Debug\Reference_project.pdb
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\obj\Debug\Task_OOP.csproj.CopyComplete
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\obj\Debug\Task_OOP.exe
+C:\Users\mashf\source\repos\Task_OOP\Task_OOP\obj\Debug\Task_OOP.pdb
